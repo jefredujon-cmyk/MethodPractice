@@ -4,7 +4,7 @@ public class  Hello {
 
     public static void main(String[] args) {
 
-        // call the method sayHello
+        //call the method sayHello
         sayHello();
         sayGoodbye();
         sayGoodMorning();
